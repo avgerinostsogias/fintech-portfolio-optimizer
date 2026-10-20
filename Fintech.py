@@ -15,8 +15,7 @@ st.set_page_config(
 
 st.title("💼 Live FinTech: Monte Carlo Portfolio Optimization & Correlation")
 st.write(
-    "Εργαλείο ανάλυσης ρίσκου, απόδοσης και συσχετίσεων με **πραγματικά"
-    " δεδομένα αγοράς** από το Yahoo Finance."
+    "Εργαλείο ανάλυσης ρίσκου, απόδοσης και συσχετίσεων με δεδομένα από το Yahoo Finance."
 )
 
 # 2. Sidebar: Επιλογές Χρήστη
